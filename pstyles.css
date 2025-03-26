@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: 'New Tegomin', sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.top-contain {
+    background-color:#FBF8EF;
+    padding-left: 20px;
+}
+
+.mid-contain {
+    width:200px;
+    height:200px;
+    background-color: red;
+}
+
+.btm-contain {
+    width:200px;
+    height:200px;
+    background-color: blue;
+}
